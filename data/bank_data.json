@@ -1,0 +1,20 @@
+{
+    "Saachin Kunwar": {
+        "pin": "1234",
+        "balance": 1000.0,
+        "history": [
+            "Received 1000.0 from Ram Kunwar at 2026-05-27 20:34:09"
+        ],
+        "is_active": true
+    },
+    "Ram Kunwar": {
+        "pin": "4321",
+        "balance": 8500.0,
+        "history": [
+            "Deposited 10000.0 at 2026-05-27 20:32:56",
+            "Withdrawn 500.0 at 2026-05-27 20:33:04",
+            "Sent 1000.0 to Saachin Kunwar at 2026-05-27 20:34:09"
+        ],
+        "is_active": true
+    }
+}
