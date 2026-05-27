@@ -237,7 +237,6 @@ BANK-MANAGEMENT-SYSTEM/
 │   └── main.py
 │
 ├── .gitignore
-├── README.md
 └── venv/
 ```
 
